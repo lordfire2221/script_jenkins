@@ -28,3 +28,5 @@ cat /var/lib/jenkins/secrets/initialAdminPassword
 
 
 echo "Installation et configuration de Jenkins terminées."
+
+reboot
